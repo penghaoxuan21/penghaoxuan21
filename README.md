@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @penghaoxuan21
+- 👀 I’m interested in Computer Science undergrad mastering Rust. 
+- 🌱 I’m currently learning Passionate about systems programming and ready for new challenges.
